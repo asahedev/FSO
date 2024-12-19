@@ -1,7 +1,7 @@
 # Exercise 0.4
 
 This project includes a Mermaid diagram.
-
+git
 
 ```mermaid
 sequenceDiagram
